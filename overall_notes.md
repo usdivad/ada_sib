@@ -2,14 +2,14 @@
 =============
 
 #Map
-Ada's Theme
-Martyrs at Shore/The Arrest
-Ruins, Shells, Ghosts
-Wusisaneryi
-Vapor Trails (Ada)
-The Mategory Cap
-D.A.S.H. (Doctor Andriessen Says Hello)
-Return to Eden
+1. Ada's Theme
+2. Martyrs at Shore/The Arrest
+3. Ruins, Shells, Ghosts
+4. Wusisaneryi
+5. Vapor Trails (Ada)
+6. The Mategory Cap
+7. D.A.S.H. (Doctor Andriessen Says Hello)
+8. Return to Eden
 
 
 Remove Theme
@@ -76,7 +76,13 @@ Whoa the bars in the Sibelius and Live actually match! That's pretty damn cool
 
 Is this a race? In some ways. I wanna beat T to the chase
 Man I am vain. Embrace it!
+Embrace the race to the chase
 
+Figure out workflow esp on Sibelius. Just make sure it's always musical!!
+Methodical 
+
+There's no huge rush; it's all in your mind mind mind
+Leave it all behind hind hind
 
 #Ideas
 
@@ -89,6 +95,16 @@ Martyr:
 - Main w/ brass melody in Em
 - Main w/ string melody in Bm
 - Back to Em melody
+
+Go into 54321 groove but real softly over the dissonant part
+and then 54321?
+
+
+Mategory:
+- there needs to be some space even in the frenziedness of it all
+- and it has to be very purposeful
+- end with a retrograde of the whole thing?
+- you weren't methodical enough son
 
 
 #Todo etc.
