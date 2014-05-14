@@ -86,19 +86,28 @@ Leave it all behind hind hind
 
 #Ideas
 
-54321: X----X---X--X-X
-12345: X-XX--X---X----
-really trying to write a metal piece with classical instr?
+54321:
+- 54321: X----X---X--X-X
+- 12345: X-XX--X---X----
+- really trying to write a metal piece with classical instr?
+- start with rubato drum stuff
 
 
 Martyr:
 - Main w/ brass melody in Em
 - Main w/ string melody in Bm
 - Back to Em melody
+- electro
 
 Go into 54321 groove but real softly over the dissonant part
 and then 54321?
 
+Let it BREATHE jeeeeez
+
+do a massive attack type thing at the end, slight. and then the bat thing bombom
+xxxxxxxx----
+
+x---xxxxxxxxx-----------
 
 Mategory:
 - there needs to be some space even in the frenziedness of it all
@@ -106,6 +115,8 @@ Mategory:
 - end with a retrograde of the whole thing?
 - you weren't methodical enough son
 
+
+where's the action? it's pointless w/o structure imagined
 
 #Todo etc.
 Remove:
@@ -203,7 +214,7 @@ Danny Elfman Spiderman2 Main Title (http://open.spotify.com/track/2v3Ezj7MnwBe3s
 2:42 another theme heroic
 2:59 electro theme decresc
 
-Oh no am I just becoming Hal Rosenfeld...
+Oh no am I just becoming Rosenfeld...
 hey you'll always have that
 
 
