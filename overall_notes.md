@@ -6,11 +6,10 @@
 2. Martyrs at Shore/The Arrest
 3. Ruins, Shells, Ghosts
 4. Wusisaneryi
-5. Vapor Trails (Ada)
-6. The Mategory Cap
-7. D.A.S.H. (Doctor Andriessen Says Hello)
-8. Return to Eden
-
+5. Molecular Improvisation
+6. D.A.S.H. (Doctor Andriessen Says Hello)
+7. Return to Eden
+Vapor trails..
 
 Remove Theme
     - string sections only?
@@ -84,6 +83,11 @@ Methodical
 There's no huge rush; it's all in your mind mind mind
 Leave it all behind hind hind
 
+The importance of dynamics!
+Really just be patient w the sounds
+Importing MIDI is good
+Make sure it works 95%, not just "ok works 5%"
+
 #Ideas
 
 54321:
@@ -108,6 +112,9 @@ do a massive attack type thing at the end, slight. and then the bat thing bombom
 xxxxxxxx----
 
 x---xxxxxxxxx-----------
+
+transition needs dissonance
+
 
 Mategory:
 - there needs to be some space even in the frenziedness of it all
@@ -135,8 +142,12 @@ Microtiming (read up on Vijay?)
 
 Martyr:
 do a drum groove thing workout
-
-
+import midi dir into live
+string portamentos? scary
+- beginning sounds empty, when the drums first come in
+- reverb on tpt
+- dialogue at end
+- dynamics still; sometimes drums overpower
 
 #Story
 
@@ -241,3 +252,12 @@ The link is one digit off from C3PO....
 http://www.pozible.com/project/180455
 
 
+
+http://www.richardcanavan.com/about
+http://www.reddit.com/r/WeAreTheMusicMakers/comments/1xtiia/film_scoring/
+http://www.reddit.com/r/mediacomposing/
+http://vimeo.com/92604712
+https://twitter.com/thetemptrack
+
+
+https://www.youtube.com/watch?v=jtujwGZYQa8
