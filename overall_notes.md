@@ -4,12 +4,15 @@
 #Map
 1. Ada's Theme
 2. Martyrs at Shore/The Arrest
-3. Ruins, Shells, Ghosts
-4. Wusisaneryi
+3. Wusisaneryi
+4. Letter to Y
 5. Molecular Improvisation
-6. D.A.S.H. (Doctor Andriessen Says Hello)
-7. Return to Eden
-Vapor trails..
+6. Doctor Andriessen Says Hello
+7. Vapor Trails (Ada)
+8. Return to Eden
+    - Ending #1: Return to Eden
+    - Ending #2: The Doctor Wins
+    - Ending #3: Dragon is Reborn
 
 Remove Theme
     - string sections only?
@@ -88,6 +91,9 @@ Really just be patient w the sounds
 Importing MIDI is good
 Make sure it works 95%, not just "ok works 5%"
 
+Maybe you can apply for some film/tv scoring "internship" type things. Once you build a portfolio
+http://minnesota.publicradio.org/display/web/2013/12/19/breaking-bad-dave-porter-interview
+
 #Ideas
 
 54321:
@@ -125,12 +131,21 @@ Mategory:
 
 where's the action? it's pointless w/o structure imagined
 
+
+
+Molecular:
+- make sure you actually fiddle with own sounds; don't just use presets out of the box... don't rely on that
+
+
 #Todo etc.
 Remove:
 bar 7 realism
 bar 18 violin melody 16ths
 25 the 1/4 bar always seems rushed
 33 rushed violin sus
+
+0:43 those triplets
+
 
 percussion's gonna be harder than you thought
 
@@ -148,6 +163,20 @@ string portamentos? scary
 - reverb on tpt
 - dialogue at end
 - dynamics still; sometimes drums overpower
+
+0:23 dynamic of viol
+1:10 melody needs to stand out more
+1:58 tpts need to be less robotic
+2:30 violins the legato one is too synthy
+same with snare at the end
+
+
+Wusi:
+- fix the flute octave at beginning section
+- piano last chord should be bigger, some higher notes
+
+Molecular:
+- should it get bigger?
 
 #Story
 
@@ -261,3 +290,11 @@ https://twitter.com/thetemptrack
 
 
 https://www.youtube.com/watch?v=jtujwGZYQa8
+
+
+http://beautifuldeath.com/
+http://evgrieve.com/2014/05/exclusive-east-village-radio-is-signing.html#.U3NuZyy1zEo.facebook
+http://darkhorseanalytics.com/blog/breathing-city/
+http://www.npr.org/blogs/codeswitch/2014/05/11/310708342/recall-that-ice-cream-truck-song-we-have-unpleasant-news-for-you
+
+https://www.youtube.com/watch?v=2hx7LkaTnnM
