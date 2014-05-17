@@ -94,6 +94,16 @@ Make sure it works 95%, not just "ok works 5%"
 Maybe you can apply for some film/tv scoring "internship" type things. Once you build a portfolio
 http://minnesota.publicradio.org/display/web/2013/12/19/breaking-bad-dave-porter-interview
 
+
+Certain things e.g.:
+- fiddling with note durations
+- using velocity curves
+- trying dif time signatures and section lengths and tempos till you figure the right one out
+- contrasting sections
+- limit self instrumentally to see what you can do without relying on "layering"
+- testing pitch-shifts and effects for samples esp drums
+- relative dynamics
+
 #Ideas
 
 54321:
@@ -177,6 +187,12 @@ Wusi:
 
 Molecular:
 - should it get bigger?
+
+Letter to Y:
+- Bar 75 hold clarinet
+- Realism still!
+- Percussion dynamics between sections
+- The beginning?
 
 #Story
 
