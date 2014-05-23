@@ -104,6 +104,11 @@ Certain things e.g.:
 - testing pitch-shifts and effects for samples esp drums
 - relative dynamics
 
+
+Being happy with terrible code ignites the cynicism in other people and makes them want to strangle you as they tell you everything you could have done better. But hey, that means they're giving you advice!
+And if you're really nice and humble towards that criticism and advice, they calm down and feel good enough that you're not a completely lost cause (or worse, a troll), and will happily help you further.
+The combination of getting the frustrations at bad code out of their system, and having you be nice despite their rant towards you making them feel good about themselves, makes them associate giving you advice with feeling good.
+
 #Ideas
 
 54321:
@@ -158,6 +163,9 @@ bar 18 violin melody 16ths
 
 
 percussion's gonna be harder than you thought
+use snare instead
+
+don't over do the "expressive" strings
 
 
 Velocity maps
