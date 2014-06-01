@@ -189,6 +189,26 @@ string portamentos? scary
 same with snare at the end
 
 
+tpt realism
+
+horns too much in beginning
+guitar pitch
+string accelerando
+no taiko in big part?
+string realism in the 16ths...
+
+BUILDERS
+0:19 scene begins
+0:36 home
+0:42 arrive
+0:54 create
+1:06 staring
+1:15 other workers
+1:40 cowboy arrives
+ytsejam nin
+
+
+
 Wusi:
 - fix the flute octave at beginning section
 - piano last chord should be bigger, some higher notes
@@ -201,6 +221,170 @@ Letter to Y:
 - Realism still!
 - Percussion dynamics between sections
 - The beginning?
+
+Velocity curves?
+C vs F; chamber vs film?
+blending the same instrument sample sounds; clarinet
+
+clarinet chorus
+drum velocity when back to verse
+
+
+
+
+5/28:
+1
+0:30 violin entrance too much?
+the "expressive violins" might be too much
+the triplets still...
+and the 16th notes
+1:54 flute and violin exit
+
+
+2.
+0:14 snare roll too loud
+0:23 that stray violin
+are the strings drowning out the others? esp the percussion..
+1:05 guitar fake..
+nuances e.g. the spiderman strings are getting lost
+2:06 robotic trumpets
+2:25 robotic gets even worse; the trombone and fucking strings
+2:40 the guitar upwards wants to go more
+
+
+3.
+experiment some more with settings
+
+4.
+clarinet still sounds shitty
+cello strings around 1:51 robot
+2:20 clarinet is so quiet
+
+
+5.
+overall mix is so quiet
+
+
+
+you should truly know your pieces
+every modulation, every orchestration
+how to avoid roboticism?
+    - gotta study the fucking manual
+so overall EWQL doesn't do rhythmic stuff well
+
+live performance james blake
+
+
+rhythmic illusion via displacement:
+- jai paul "all night"
+- james blake "life round here"
+- stewart copeland "spirits"
+- ACDC "thunderstruck"?
+
+
+probability of it being ringo?
+https://www.youtube.com/watch?v=nX4NmRqeHPs
+good mornign https://www.youtube.com/watch?v=seBesbM4SPA
+
+
+
+
+Hey Professor Fussell,
+
+I got your contact info from Daniel Bachrach, one of your students last summer; I'm friends with Daniel and we used to play in a band together. I was wondering if you're still available this summer (and beyond) for lessons of some sort?
+
+A bit of background about myself: I'm a composer and drummer having just graduated from Columbia University with a degree in music and computer science. I studied computer music with Brad Garton and took composition seminars with Fred Lerdahl and Don Sickler. Some of my previous compositions:
+
+- ... like kites with no strings (performed with Conrad Tao's SRIRACHA; I play drums here as well)
+- Swan Dynasty (performed by counter)induction)
+- One Eyed King (performed by LyricLion)
+- Gold Mountain (performed by quartet at Banff)
+
+Recently I have been writing more for the intention of film scoring, and I feel that a firmer grasp and deeper understanding of the musical palettes available will help me along that path, particularly in terms of setting, augmenting, and expressing the emotion and mood of a scene. Some "practice cues" that I have been working on can be found at the Ada Lovelace Project.
+
+Among the things that I'd like to work on are:
+- arranging and orchestration
+- piano skills and technique
+- harmonic and formal theory
+
+Thank you so much for your time, and I hope to hear from you! Even if lessons don't work out, I would love to talk further with you about composition and music in general.
+
+
+-- 
+David Su
+http://usdivad.com/
+
+
+
+
+5/30
+
+6:43 lyrics
+11:00 runthru
+
+
+and i had a dream so loud
+that i found you in the rain
+memories and doubt
+will erase us yet again
+
+and i try so hard
+so hard to forgive
+so i can move on
+just so i can live
+
+
+
+standards need to get higher
+i'm not a good enough performer but these samples are too robotic; where's the middle ground?
+at what point does human expression become undesirable inconsistency?
+
+
+listenig with audio-technica headphones
+1:
+0:40 entrance is WAY too loud... compress?
+0:58 lead string timing
+balance strings horn etc, otherwise it sounds thin strangely
+lead string swells at 1:55
+snare 2:08 bad timing
+2:30 why the double rolls so dumb
+is this a good opening track even?
+
+2:
+cool strong entrance
+0:15 snare change is maybe not subtle
+0:25 the stray string
+0:30 the additional strings are maybe too much now.. come in later
+all the percussion ins in left channel
+that guitar squeal is goood
+1:58 one of the trombone? tuba? has a weird decay. with the timpani
+trumpet.....
+and yeah roboticism around 2:27 etc.
+snare gets overshadowed around 2:50
+
+3:
+end cuts off oops
+
+4:
+clarinet melody never feels
+clipping in 1:05
+1:31 robotic perc..
+1:47 robotic cello
+
+
+5:
+louder overall
+piano dynamics?
+
+6:
+a more bare bit after what's transpired
+
+
+
+2:
+right ear drums are a bit too obtuse in the first section
+
+this demo issue?
 
 #Story
 
